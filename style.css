@@ -1,0 +1,54 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.traveldiv {
+    border: 2px solid salmon;
+} 
+
+.traveldiv img{
+    width: 100%;
+}
+
+.movie_div{
+    font-size: 25px;
+    padding: 8px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_div i{
+    float: right;
+}
+
+.movie_text span{
+    color: orange;
+}
+
+.Books img{
+    width: 350px;
+    height: 400px;
+}
+
+.books img{
+    width: 350px;
+    height: 400px;
+}
+
+.Books{
+    background-color: lavenderblush;
+}
+
+.books{
+    background-color: lawngreen;
+    margin: 10px;
+}
+
+contact_1 img {
+    width: 20%;
+    height: 20%;
+}
+
+
+
